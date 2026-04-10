@@ -1,7 +1,11 @@
 # LLM Evaluation Case Studies  
 ### AI Systems • Product Thinking • Failure Analysis
-
+![AI Evaluation](https://img.shields.io/badge/Focus-AI%20Evaluation-blue)
+![LLM](https://img.shields.io/badge/Domain-LLMs-purple)
+![Product Thinking](https://img.shields.io/badge/Skill-Product%20Thinking-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ---
+
 
 ## Overview
 
@@ -17,7 +21,12 @@ The focus is on:
 These case studies simulate **real product environments** across:
 - Interactive applications  
 - Analytical dashboards  
-- Stateful systems  
+- Stateful systems
+
+---
+## Evaluation Workflow
+
+Prompt → Model Output → Rubric Evaluation → Failure Analysis → Human Fix → Training Signal
 
 ---
 
