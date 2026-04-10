@@ -1,13 +1,17 @@
-# LLM Evaluation Case Studies  
+Designed for roles in Technical Account Management, Customer Success, and AI SaaS
+# LLM Evaluation Case Studies 
 ### AI Systems • Product Thinking • Failure Analysis
 ![AI Evaluation](https://img.shields.io/badge/Focus-AI%20Evaluation-blue)
 ![LLM](https://img.shields.io/badge/Domain-LLMs-purple)
 ![Product Thinking](https://img.shields.io/badge/Skill-Product%20Thinking-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+Real-world evaluation of LLM capabilities in product-like systems - focusing on where models fail and why.
+
 ---
 
 
-## Overview
+## What This Portfolio Showcases
 
 This repository showcases my work as an **AI Evaluation & Prompt Engineering Consultant**, where I design complex product-style problems to **stress-test Large Language Models (LLMs)**.
 
